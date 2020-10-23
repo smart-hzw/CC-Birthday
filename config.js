@@ -43,6 +43,5 @@ var config = {
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
-        cake_cut:"来吧，切蛋糕吧！！1",
     }
 };
